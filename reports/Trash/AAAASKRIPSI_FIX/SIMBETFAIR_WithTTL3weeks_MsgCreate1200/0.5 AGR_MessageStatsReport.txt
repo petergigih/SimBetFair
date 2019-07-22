@@ -1,0 +1,20 @@
+Message stats for scenario 0.5 AGR
+sim_time: 16981816.0000
+created: 12147
+started: 632528
+relayed: 608622
+aborted: 23906
+dropped: 583071
+removed: 0
+delivered: 7307
+delivery_prob: 0.6015
+response_prob: 0.0000
+overhead_ratio: 82.2930
+latency_avg: 519539.9978
+latency_med: 360554.0000
+hopcount_avg: 4.6874
+hopcount_med: 4
+buffertime_avg: 1267483.0333
+buffertime_med: 1416792.0000
+rtt_avg: NaN
+rtt_med: NaN
